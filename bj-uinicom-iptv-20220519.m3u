@@ -301,3 +301,20 @@ http://192.168.1.10:8686/rtp/239.3.1.82:4120
 http://192.168.1.10:8686/rtp/239.3.1.70:4120
 #EXTINF:-1 tvg-name="该频道节目单尚无",魅力时尚
 http://192.168.1.10:8686/rtp/239.3.1.196:9012
+
+#https://github.com/tunjinyu/M3U/blob/main/%E7%B1%BB_zyplayer/1.CCTV-4.txt
+#天津联通hssvm,#genre#
+#EXTINF:-1 tvg-name="该频道节目单尚无",CCTV风云足球(1)
+http://nas.hssvm.com:8888/udp/225.1.2.168:5002
+#EXTINF:-1 tvg-name="该频道节目单尚无",CCTV高尔夫网球(1)
+http://nas.hssvm.com:8888/udp/225.1.2.169:5002
+#湖北电信myds,#genre#
+#EXTINF:-1 tvg-name="该频道节目单尚无",CCTV风云足球(2)
+http://www.hiliu.myds.me:8088/rtp/239.69.1.81:10126
+#EXTINF:-1 tvg-name="该频道节目单尚无",CCTV高尔夫网球(2)
+http://www.hiliu.myds.me:8088/rtp/239.69.1.83:10138
+#吉林电信tuyuannet,#genre#
+#EXTINF:-1 tvg-name="该频道节目单尚无",CCTV风云足球(3)
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.080:5540
+#EXTINF:-1 tvg-name="该频道节目单尚无",CCTV高尔夫网球(3)
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.230:5540
